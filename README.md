@@ -17,19 +17,28 @@ Clone the Repository:
 
 bash
 Copy code
+
 git clone https://github.com/Emmanuel-Omopariola/Phone-Number-Tracker.git
+
 cd phone-number-tracker
+
 Install Dependencies: Make sure you have Python installed. Then, install the required dependencies using pip
 
 Api key:
 Sign in to https://opencagedata.com to get an api key 
+
 Contributions to enhance this project are welcome. Please ensure that your contributions adhere to the following:
 
 Maintain ethical standards and legal compliance.
-Document any changes clearly and thoroughly.
-Respect privacy and data protection considerations.
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Disclaimer
-The creators of this tool are not responsible for any misuse or illegal activities performed using this code. Users must ensure their use of this tool complies with all relevant laws and ethical standards.
+Document any changes clearly and thoroughly.
+
+Respect privacy and data protection considerations.
+
+
+Disclaimer:
+
+I'm not responsible for any misuse or illegal activities performed using this code. Users must ensure their use of this tool complies with all relevant laws and ethical standards.
+
+
+
