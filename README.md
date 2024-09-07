@@ -22,7 +22,7 @@ cd phone-number-tracker
 Install Dependencies: Make sure you have Python installed. Then, install the required dependencies using pip
 
 Api key:
-Sign in to OPENCAGE to get an api key 
+Sign in to https://opencagedata.com to get an api key 
 Contributions to enhance this project are welcome. Please ensure that your contributions adhere to the following:
 
 Maintain ethical standards and legal compliance.
